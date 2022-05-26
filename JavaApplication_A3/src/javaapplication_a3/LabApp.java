@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
  * @author ayand
  */
 /*
-Class Computer to stroe information about computer
+Class Computer to store information about computer
 */
 class Computer
 {
@@ -42,6 +42,7 @@ public class LabApp extends javax.swing.JFrame {
 
     /**
      * This method is called from within the constructor to initialize the form.
+     Kindly Don't modify this code Sir, thanks.
      */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">                          
